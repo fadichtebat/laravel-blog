@@ -121,8 +121,8 @@ npm run build
 ---
 
 ## **👨‍💻 Author**
-Developed by **[Your Name]**  
-GitHub: [@yourusername](https://github.com/yourusername)
+Developed by *Fadi Chtebat*  
+GitHub: [@fadichtebat](https://github.com/fadichtebat)
 
 ---
 
