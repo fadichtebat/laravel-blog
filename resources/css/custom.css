@@ -1,0 +1,6 @@
+.btn-disabled {
+    pointer-events: none; /* Prevent clicks */
+    opacity: 0.6; /* Make it look faded */
+    cursor: not-allowed; /* Show disabled cursor */
+}
+
